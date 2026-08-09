@@ -1,6 +1,7 @@
 Laboratório prático de configuração de **VLANs**, alteração de **VLAN Nativa** e estruturação de
-**Link Trunk**
-entre dois switches Cisco em ambiente de simulação.
+**Link Trunk** entre dois switches Cisco em ambiente de simulação.
+"Este laboratório simula a segmentação de rede de um escritório corporativo para isolar o tráfego
+de departamentos (RH, Administração e TI) aumentando a segurança e reduzindo o domínio de broadcast."
 
 ## 📐 Especificações da Rede
 
