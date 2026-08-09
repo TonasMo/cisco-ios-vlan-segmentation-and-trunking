@@ -37,7 +37,7 @@ switches.
 Boa prática, colocar portas não usadas em shutdown e  associadas a uma VLAN dummy
 em quarentena.
 
-## Validação
+## Verificação
 
 - show vlan brief
 - show interfaces trunk
